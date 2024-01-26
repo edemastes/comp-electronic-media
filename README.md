@@ -21,5 +21,13 @@ Assignments: <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
 - Week 2: Samples and effects, MIDI, simple harmony <br>
 Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems and mix them.
-- Week 3: Synthesis and synth VSTs
+- Week 3: Synthesis and synth VSTs <br><br>
+
+Resources:
+- <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
+- <a href ="https://www.ableton.com/en/trial/"> Ableton trial </a>
+- <a href ="https://freesound.org/"> Freesound.org </a>
+- <a href ="https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC Sound FX </a>
+- <a href ="https://learningsynths.ableton.com/"> Ableton Learning Synths tutorials </a>
+
   
