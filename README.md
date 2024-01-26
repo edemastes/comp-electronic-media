@@ -7,10 +7,11 @@ Slides:
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/pop-harmony-2.pdf"> Pop Harmony 2 </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/synthesis.pdf"> Intro to Synthesis </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/studio-gear.pdf"> Intro to Studio Gear </a> <br><br>
+
 Playlists:
 - <a href ="https://open.spotify.com/playlist/12QL3KJAAsaxZ54LuD0OFt?si=395b76dd59b5465f"> Pop and OST Production </a>
-- <a href = "https://open.spotify.com/playlist/5NHLLbN8afQGKKgNVTFkgk?si=182ddf1c3e3d494f"> Form, Time, Texture </a>
-<br><br>
+- <a href = "https://open.spotify.com/playlist/5NHLLbN8afQGKKgNVTFkgk?si=182ddf1c3e3d494f"> Form, Time, Texture </a> <br><br>
+
 Assignments: <br>
 Each week there will be short compositions assignments due for participation points that we will share in class. <br>
 There will be a final project that will need to be presented at the MST concert in May. <br>
