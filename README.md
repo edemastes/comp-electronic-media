@@ -13,9 +13,9 @@ Playlists:
 - <a href = "https://open.spotify.com/playlist/5NHLLbN8afQGKKgNVTFkgk?si=182ddf1c3e3d494f"> Form, Time, Texture </a> <br><br>
 
 Assignments: <br>
-Each week there will be short compositions assignments due for participation points that we will share in class. <br>
-There will be a final project that will need to be presented at the MST concert in May. <br>
-Finally, you will need to attend and help tech concerts throughout the semester. The first concert that you will need to attend (not tech) is <b> January 31st at noon </b> on the Music At Midday series at Rogers Memorial Chapel.<br><br>
+- Each week there will be short composition assignments due for participation points that we will share in class. 
+- There will be a final project that will need to be presented at the MST concert in May.
+- Finally, you will need to attend and help tech concerts throughout the semester. The first concert that you will need to attend (not tech) is <b> January 31st at noon </b> on the Music At Midday series at Rogers Memorial Chapel.<br><br>
 - Week 1:
   Find or record a sample or a few samples and put into your DAW of choice <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
