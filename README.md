@@ -1,5 +1,5 @@
 # comp-electronic-media
-
+tinyurl.com/electronic-comp <br><br>
 Slides:
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-intro.pdf"> Sound Intro </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-design.pdf"> Sound Design </a>
@@ -21,7 +21,10 @@ Assignments: <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
 - Week 2: Samples and effects, MIDI, simple harmony <br>
 Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems and mix them.
-- Week 3: Synthesis and synth VSTs <br><br>
+- Week 3: Pop & jazz harmony quick tips
+- Week 4: Synthesis and synth VSTs
+- Week 5: Convolution reverb activity
+- Week 6: Mixing and mastering, history and tips <br><br>
 
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
