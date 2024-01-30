@@ -16,7 +16,7 @@ Assignments: <br>
 - Each week there will be short composition assignments due for participation points that we will share in class. 
 - There will be a final project that will need to be presented at the MST concert in May.
 - Finally, you will need to attend and help tech concerts throughout the semester. The first concert that you will need to attend (not tech) is <b> January 31st at noon </b> on the Music At Midday series at Rogers Memorial Chapel.
-- <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Syllabus </a> <br><br>
+- <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Course description, grading, etc. </a> <br><br>
 - Week 1:
   Find or record a sample or a few samples and put into your DAW of choice <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
