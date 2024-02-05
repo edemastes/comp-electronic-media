@@ -14,18 +14,23 @@ Playlists:
 
 Assignments: <br>
 - Each week there will be short composition assignments due for participation points that we will share in class. 
-- There will be a final project that will need to be presented at the MST concert in May.
+- There will be a final project that will need to be presented at the MST concert in May, either May 7th or 8th.
 - Finally, you will need to attend and help tech concerts throughout the semester. The first concert that you will need to attend (not tech) is <b> January 31st at noon </b> on the Music At Midday series at Rogers Memorial Chapel.
 - <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Course description, grading, etc. </a> <br><br>
-- Week 1:
-  Find or record a sample or a few samples and put into your DAW of choice <br>
+- Jan. 15 / Week 1: Scheduling, etc. 
+- Jan. 22 / Week 2:
+  Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
-- Week 2: Samples and effects, MIDI, simple harmony <br>
+- Jan. 29 / Week 3: Intro to effects and MIDI, Due Feb 5th.
+- Feb. 5 & 12 / Week 4 & 5: add to your MIDI piece for Feb. 19, no class for Lundi Gras<br>
 Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems and mix them. Make 2 versions with some varitions.
-- Week 3: MIDI continued. Pop & jazz harmony quick tips
-- Week 4: Synthesis and synth VSTs
-- Week 5: Convolution reverb activity
-- Week 6: Mixing and mastering, history and tips <br><br>
+- Feb. 19 / Week 6: MIDI continued. Pop & jazz harmony quick tips
+- Feb. 26 / Week 7: Foley and sound fx. Recording your surroundings
+- March 4 / Week 8: Synthesis and synth VSTs
+- March 11 / Week 9: Convolution reverb activity
+- March 18 / Week 10: Microphones and studio techniques
+- March 25 / Week 11: Spring break
+- April 1 / Week 12: Mixing and mastering, history and tips <br><br>
 
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
