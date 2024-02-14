@@ -38,8 +38,6 @@ Exporting audio in Ableton:
 - <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen2.png"> Step 2 </a>
 - <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen3.png"> Step 3 </a> <br><br>
 
-</a>
-
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
 - <a href = "https://www.audacityteam.org/"> Audacity download </a>
