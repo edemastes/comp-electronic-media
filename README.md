@@ -23,7 +23,7 @@ Assignments: <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
 - Jan. 29 (Week 3): Intro to effects and MIDI, Due Feb 5th.
 - Feb. 5 & 12 (Week 4 & 5): add to your MIDI piece and bring in TWO short pieces for Feb. 19, no class for Lundi Gras<br>
-Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems and mix them. Make 2 versions with some varitions.
+Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems for each track. Make 2 versions with some variations.
 - Feb. 19 (Week 6): TWO short MIDI pieces to present are due. <br>
 MIDI continued. Pop & jazz harmony quick tips
 - Feb. 26 (Week 7): Foley and sound fx. Recording your surroundings
