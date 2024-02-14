@@ -33,6 +33,11 @@ MIDI continued. Pop & jazz harmony quick tips
 - March 25 (Week 11): Spring break
 - April 1 (Week 12): Mixing and mastering, history and tips <br><br>
 
+Exporting Audio in Ableton:
+- <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen1.png"> Step 1 </a>
+- <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen2.png"> Step 2 </a>
+- <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen3.png"> Step 3 </a> <br><br>
+
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
 - <a href = "https://www.audacityteam.org/"> Audacity download </a>
