@@ -15,7 +15,8 @@ Playlists:
 Assignments: <br>
 - Each week there will be short composition assignments due for participation points that we will share in class. 
 - There will be a final project that will need to be presented at the MST concert in May, either May 7th or 8th.
-- Finally, you will need to attend and help tech concerts throughout the semester. The first concert that you will need to attend (not tech) is <b> January 31st at noon </b> on the Music At Midday series at Rogers Memorial Chapel.
+- Finally, you will need to attend and help tech concerts throughout the semester.
+  - You will need to attend either Jan. 31, March 24, or May 6th concert at middday. You will be required to attend and tech May 7th and 8th at 7pm.
 - <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Course description, grading, etc. </a> <br><br>
 - Jan. 15 (Week 1): Scheduling, etc. 
 - Jan. 22 (Week 2):
