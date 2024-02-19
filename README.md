@@ -19,16 +19,20 @@ Assignments: <br>
   - You will need to attend either Jan. 31, March 24, or May 6th concert at middday. You will be required to attend and tech May 7th and 8th at 7pm.
 - <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Course description, grading, etc. </a> <br><br>
 - Jan. 15 (Week 1): Scheduling, etc. 
-- Jan. 22 (Week 2):
+- Jan. 22 (Week 2): No assignment due <br>
   Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
   Be ready to share your project and a track or piece of sound art you found interesting.
-- Jan. 29 (Week 3): Intro to effects and MIDI, Due Feb 5th.
-- Feb. 5 & 12 (Week 4 & 5): add to your MIDI piece and bring in TWO short pieces for Feb. 19, no class for Lundi Gras<br>
+- Jan. 29 (Week 3): Assignment 1 due. 30s-1m sample and effects<br>
+  Intro to effects and MIDI, Due Feb 5th.
+- Feb. 5 & 12 (Week 4 & 5): Assignment 2 due. 30s-1m sample, effects, MIDI <br>
+  Add to your MIDI piece and bring in TWO short pieces for Feb. 19, no class for Lundi Gras<br>
 Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems for each track. Make 2 versions with some variations.
-- Feb. 19 (Week 6): TWO short MIDI pieces to present are due. <br>
+- Feb. 19 (Week 6): Assignment 3 & 4  due. TWO short MIDI pieces to present are due. <br>
 MIDI continued. Pop & jazz harmony quick tips
-- Feb. 26 (Week 7): Foley and sound fx. Recording your surroundings
-- March 4 (Week 8): Synthesis and synth VSTs
+- Feb. 26 (Week 7): Assignment 5 due. Harmony / musique concrete (section 1 / 2) <br>
+  Foley and sound fx. Recording your surroundings
+- March 4 (Week 8): Assignment 6. Now needs to be 1m-2m in length <br>
+  Synthesis and synth VSTs
 - March 11 (Week 9): Convolution reverb activity
 - March 18 (Week 10): Microphones and studio techniques
 - March 25 (Week 11): Spring break
