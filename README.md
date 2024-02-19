@@ -15,7 +15,8 @@ Playlists:
 - <a href = "https://open.spotify.com/playlist/5NHLLbN8afQGKKgNVTFkgk?si=182ddf1c3e3d494f"> Form, Time, Texture </a> <br><br>
 
 Assignments: <br>
-- Each week there will be short composition assignments due for participation points that we will share in class. 
+- Each week there will be short composition assignments due for participation points that we will share in class.
+- Weekly attendance and assignment presentation makes up 50% of final grade.
 - There will be a final project that will need to be presented at the MST concert in May, either May 7th or 8th.
 - Finally, you will need to attend and help tech concerts throughout the semester.
   - You will need to attend either Jan. 31, March 24, or May 6th concert at middday. You will be required to attend and tech May 7th and 8th at 7pm.
