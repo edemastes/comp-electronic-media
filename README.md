@@ -1,5 +1,7 @@
 # comp-electronic-media
-tinyurl.com/electronic-comp <br><br>
+tinyurl.com/electronic-comp <br>
+Email Professor Demastes at edemast89@gmail.com <br>
+Turn in assigments via email unless presented in class <br><br>
 Slides:
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-intro.pdf"> Sound Intro </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-design.pdf"> Sound Design </a>
