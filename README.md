@@ -19,27 +19,33 @@ Assignments: <br>
 - Weekly attendance and assignment presentation makes up 50% of final grade.
 - There will be a final project that will need to be presented at the MST concert in May, either May 7th or 8th.
 - Finally, you will need to attend and help tech concerts throughout the semester.
-  - You will need to attend either Jan. 31, March 24, or May 6th concert at middday. You will be required to attend and tech May 7th and 8th at 7pm.
-- <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Course description, grading, etc. </a> <br><br>
+- You will need to attend either a music at midday concert (<a href ="https://tulane.campuslabs.com/engage/event/9731344">schedule here</a>) or one on March 24 or May 6th (more info to come). To get credit, please send a photo with the program at the concert to the email at the top of this page. 
+- <b>You will be required to attend and tech May 7th and 8th at 7pm.</b>
+- <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Syllabus, course description, grading, etc. </a> <br><br>
 - Jan. 15 (Week 1): Scheduling, etc. 
 - Jan. 22 (Week 2): No assignment due <br>
-  Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
-  Be ready to share your project and a track or piece of sound art you found interesting.
-- Jan. 29 (Week 3): Assignment 1 due. 30s-1m sample and effects<br>
-  Intro to effects and MIDI, Due Feb 5th.
-- Feb. 5 & 12 (Week 4 & 5): Assignment 2 due. 30s-1m sample, effects, MIDI <br>
+  DAW basics. Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
+- Jan. 29 (Week 3): Assignment 1 due. 30s-1m non-musical sample and effects<br>
+  Intro to effects and MIDI.
+- Feb. 5 & 12 (Week 4 & 5): Assignment 2 due. 30s-1m sample, effects, MIDI, plugins <br>
   Add to your MIDI piece and bring in TWO short pieces for Feb. 19, no class for Lundi Gras<br>
-Add some MIDI, melody/harmony to your track, or start a new track. Try to have at least 3-4 stems for each track. Make 2 versions with some variations.
+  Add some MIDI to your track, or start a new track. Try to have at least 3-4 stems for each track. Make 2 versions with some variations.
 - Feb. 19 (Week 6): Assignment 3 & 4  due. TWO short MIDI pieces to present are due. <br>
-MIDI continued. Pop & jazz harmony quick tips
-- Feb. 26 (Week 7): Assignment 5 due. Harmony / musique concrete (section 1 / 2) <br>
-  Foley and sound fx. Recording your surroundings
-- March 4 (Week 8): Assignment 6. Now needs to be 1m-2m in length <br>
-  Synthesis and synth VSTs
-- March 11 (Week 9): Convolution reverb activity
-- March 18 (Week 10): Microphones and studio techniques
+  MIDI continued. Pop & jazz harmony quick tips and listening examples
+- Feb. 26 (Week 7): Assignment 5 due. Add some harmony to your track. Consider trying phrases beyond 4-bar loops<br>
+  Harmony review. Forms and structure in pop, jazz, electronic, and experimental music
+- March 4 (Week 8): Assignment 6. Add some structure to your harmonic progressions. Now needs to be 1m-2m in length <br>
+  Intro to synthesis and synth VSTs
+- March 11 (Week 9): Assignment 7. Using synths and synth VSTs. <br>
+  Historical electronic music & musique concrete
+- March 18 (Week 10): Assignment 8. Musique concrete <br>
+  Experimental electronic music today, composing with non-traditional structures, forms, and textures (noise, IDM, new computer music)
 - March 25 (Week 11): Spring break
-- April 1 (Week 12): Mixing and mastering, history and tips <br><br>
+- April 1 (Week 12): Harmony II, extensions, suspension, and polychords
+- April 8 (Week 13): Microphones and studio techniques
+- April 15 (Week 14): Mixing and mastering, history and tips
+- April 22 (Week 15):
+- April 29 (Week 16): <br><br>
 
 Exporting audio in Ableton:
 - <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen1.png"> Step 1 </a>
