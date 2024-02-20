@@ -41,7 +41,7 @@ Assignments: <br>
 - March 18 (Week 10): Assignment 8. Musique concrete <br>
   Experimental electronic music today, composing with non-traditional structures, forms, and textures (noise, IDM, new computer music)
 - March 25 (Week 11): Spring break
-- April 1 (Week 12): Harmony II, extensions, suspension, and polychords
+- April 1 (Week 12): Harmony II, extensions, suspensions, and polychords
 - April 8 (Week 13): Microphones and studio techniques
 - April 15 (Week 14): Mixing and mastering, history and tips
 - April 22 (Week 15):
