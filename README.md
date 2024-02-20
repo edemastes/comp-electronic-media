@@ -44,7 +44,7 @@ Assignments: <br>
 - April 1 (Week 12): Harmony II, extensions, suspensions, and polychords
 - April 8 (Week 13): Microphones and studio techniques
 - April 15 (Week 14): Mixing and mastering, history and tips
-- April 22 (Week 15):
+- April 22 (Week 15): Convolution reverb activity- balloon pops.
 - April 29 (Week 16): <br><br>
 
 Exporting audio in Ableton:
