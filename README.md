@@ -61,6 +61,7 @@ Resources:
   - <a href = "https://www.spitfireaudio.com/info/website-guide/digital-downloads/"> How-to video for plugin install </a>
 - <a href ="https://freesound.org/"> Freesound.org </a>
 - <a href ="https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC Sound FX </a>
+- <a href = "https://learningmusic.ableton.com/index.html"> Ableton Learning Music tutorials </a>
 - <a href ="https://learningsynths.ableton.com/"> Ableton Learning Synths tutorials </a>
 
   
