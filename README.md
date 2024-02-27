@@ -52,6 +52,13 @@ Exporting audio in Ableton:
 - <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen2.png"> Step 2 </a>
 - <a href ="https://edemastes.github.io/comp-electronic-media/export-audio/screen3.png"> Step 3 </a> <br><br>
 
+Recording MIDI in Reaper:
+- Minimize your LABS keyboard view after choosing a sound.
+- <a href ="https://edemastes.github.io/comp-electronic-media/reaper/midi-keyboard.png"> Enable virtual MIDI keyboard </a>
+- <a href ="https://edemastes.github.io/comp-electronic-media/reaper/record.png"> Record enable and record </a>
+- Play your computer keyboard to record notes
+- Save track <br><br>
+
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
 - <a href = "https://www.audacityteam.org/"> Audacity download </a>
@@ -60,6 +67,7 @@ Resources:
   - <a href = "https://www.spitfireaudio.com/info/library-manager/"> Spitfire Audio plugin download </a>
   - <a href = "https://www.spitfireaudio.com/info/website-guide/digital-downloads/"> How-to video for plugin install </a>
 - <a href = "https://maxforlive.com/library/index.php?type=instrument"> Max for Live instrument plugins </a>
+- <a href = "https://vcvrack.com/"> VCV Rack, Eurorack simulator </a>
 - <a href ="https://freesound.org/"> Freesound.org </a>
 - <a href ="https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC Sound FX </a>
 - <a href = "https://learningmusic.ableton.com/index.html"> Ableton Learning Music tutorials </a>
