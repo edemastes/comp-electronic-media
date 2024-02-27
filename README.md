@@ -56,8 +56,8 @@ Recording MIDI in Reaper:
 - Minimize your LABS keyboard view after choosing a sound.
 - <a href ="https://edemastes.github.io/comp-electronic-media/reaper/midi-keyboard.png"> Enable virtual MIDI keyboard </a>
 - <a href ="https://edemastes.github.io/comp-electronic-media/reaper/record.png"> Record enable and record </a>
-- Play your computer keyboard to record notes
-- Save track <br><br>
+- Play your computer keyboard to record notes.
+- Save track. <br><br>
 
 Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
