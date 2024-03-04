@@ -24,24 +24,26 @@ Assignments: <br>
 - <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Syllabus, course description, grading, etc. </a> <br><br>
 - Jan. 15 (Week 1): Scheduling, etc. 
 - Jan. 22 (Week 2): No assignment due <br>
-  DAW basics. Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
+  Topic: DAW basics. Find or record a sample or a few samples and put into your DAW of choice, Due Jan. 29 <br>
 - Jan. 29 (Week 3): Assignment 1 due. 30s-1m non-musical sample and effects<br>
-  Intro to effects and MIDI.
+  Topic: Intro to effects and MIDI.
 - Feb. 5 & 12 (Week 4 & 5): Assignment 2 due. 30s-1m sample, effects, MIDI, plugins <br>
   Add to your MIDI piece and bring in TWO short pieces for Feb. 19, no class for Lundi Gras<br>
   Add some MIDI to your track, or start a new track. Try to have at least 3-4 stems for each track. Make 2 versions with some variations.
 - Feb. 19 (Week 6): Assignment 3 & 4  due. TWO short MIDI pieces to present are due. <br>
-  MIDI continued. Pop & jazz harmony quick tips and listening examples
+  Topic: MIDI continued. Pop & jazz harmony quick tips and listening examples
 - Feb. 26 (Week 7): Assignment 5 due. Add some harmony to your track. Consider trying phrases beyond 4-bar loops<br>
-  Harmony review. Forms and structure in pop, jazz, and rock music
+  Topic: Harmony review. Forms and structure in pop, jazz, and rock music
 - March 4 (Week 8): Assignment 6 due. Add some structure to your harmonic progressions. This can be ABA, AABA, or something like the pop/rock song structures we heard in class. Assigments now need to be 1m-2m in length <br>
-  Intro to synthesis and synth VSTs
+  Topic: Intro to synthesis and synth VSTs
 - March 11 (Week 9): Assignment 7 due. Using synths and synth VSTs. Record something you made in the Ableton Learning Synths page. Add a MIDI synth to your Ableton file and change some of the parameters. Be prepared to explain what you changed and how it affected the sound. Incorportate both your recording and your MIDI synth into one track to present. <br>
-  Historical electronic music & musique concrete
-- March 18 (Week 10): Assignment 8 due. Using non-musical samples and/or sound effects, create a 1-2 minute piece or soundscape in the style of musique concrete. <br>
-  Experimental electronic music today, composing with non-traditional structures, forms, and textures (noise, IDM, new computer music)
+Topic: Experimental electronic music today, composing with non-traditional structures, forms, and textures (noise, IDM, new computer music)
+- March 18 (Week 10): Assignment 8 due. Using automation, sequencing, and other computer music techniques <br>
+  Topic: Historical electronic music & musique concrete
 - March 25 (Week 11): Spring break
-- April 1 (Week 12): Harmony II, extensions, suspensions, and polychords
+- April 1 (Week 12): Assignment 9 Due: Using non-musical samples and/or sound effects, create a 1-2 minute piece or soundscape in the style of musique concrete.
+  <br>
+  Topic: Harmony II, extensions, suspensions, and polychords
 - April 8 (Week 13): Microphones and studio techniques
 - April 15 (Week 14): Mixing and mastering, history and tips
 - April 22 (Week 15): Convolution reverb activity- balloon pops.
