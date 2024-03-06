@@ -37,7 +37,7 @@ Assignments: <br>
 - March 4 (Week 8): Assignment 6 due. Add some structure to your harmonic progressions. This can be ABA, AABA, or something like the pop/rock song structures we heard in class. Assigments now need to be 1m-2m in length <br>
   Topic: Intro to synthesis and synth VSTs
 - March 11 (Week 9): Assignment 7 due. Using synths and synth VSTs. Record something you made in the Ableton Learning Synths page. Add a MIDI synth to your Ableton file and change some of the parameters. Be prepared to explain what you changed and how it affected the sound. Incorportate both your recording and your MIDI synth into one track to present. <br>
-Topic: Experimental electronic music today, composing with non-traditional structures, forms, and textures (noise, IDM, new computer music)
+Topic: Experimental electronic music today: noise, IDM, new computer music. Automation, looping, sequencing in Ableton/Reaper. Setting up drums in Ableton.
 - March 18 (Week 10): Assignment 8 due. Using automation, sequencing, and other computer music techniques <br>
   Topic: Historical electronic music & musique concrete
 - March 25 (Week 11): Spring break
