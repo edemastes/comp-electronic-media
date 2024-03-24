@@ -17,13 +17,13 @@ function setup()
 function mousePressed()
 {
   noise.start();
-  filter.frequency.rampTo(10,1);
+  // filter.frequency.rampTo(10,1);
 }
 
 function mouseReleased()
 {
   noise.stop();
-  filter.frequency.value = 500;
+  // filter.frequency.value = 500;
 }
 
 function draw() 
