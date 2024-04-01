@@ -44,9 +44,11 @@ Topic: Experimental electronic music today: noise, IDM, new computer music. Auto
 - April 1 (Week 12): Assignment 9 Due: Using non-musical samples and/or sound effects, create a 1-2 minute piece or soundscape in the style of musique concrete.
   <br>
   Topic: Harmony II, extensions, suspensions, and polychords
-- April 8 (Week 13): Microphones and studio techniques
-- April 15 (Week 14): Mixing and mastering, history and tips
-- April 22 (Week 15): Convolution reverb activity- balloon pops.
+- April 8 (Week 13): Assigment 10 due: 1-2 minute piece with extensions, suspensions, or polychords. <br>
+  Topic: Microphones and studio techniques
+- April 15 (Week 14): For the next weeks, working on final project. <br>
+  Topic: Mixing and mastering, history and tips
+- April 22 (Week 15): Individual meetings for mixing and mastering.
 - April 29 (Week 16): <br><br>
 
 Exporting audio in Ableton:
