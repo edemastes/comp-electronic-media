@@ -49,7 +49,7 @@ Topic: Experimental electronic music today: noise, IDM, new computer music. Auto
   Topic: Microphones and studio techniques
 - April 15 (Week 14): For the next weeks, working on final project. <br>
   Topic: Mixing and mastering, history and tips
-- April 22 (Week 15): Individual meetings for mixing and mastering.
+- April 22 (Week 15): Individual meetings for mixing and mastering over Zoom-- no in-person meeting this week.
 - April 29 (Week 16): Final project presentations
 - May 7th & 8th: Final concerts 7pm <br><br>
 
