@@ -42,7 +42,7 @@ Topic: Experimental electronic music today: noise, IDM, new computer music. Auto
 - March 18 (Week 10): Assignment 8 due. Using automation, sequencing, and other computer music techniques <br>
   Topic: Historical electronic music & musique concrete
 - March 25 (Week 11): Spring break
-- April 1 (Week 12): Assignment 9 Due: Using non-musical samples and/or sound effects, create a 1-2 minute piece or soundscape in the style of musique concrete.
+- April 1 (Week 12): Assignment 9 due: Using non-musical samples and/or sound effects, create a 1-2 minute piece or soundscape in the style of musique concrete.
   <br>
   Topic: Harmony II, extensions, suspensions, and polychords
 - April 8 (Week 13): Assigment 10 due: 1-2 minute piece with extensions, suspensions, or polychords. <br>
