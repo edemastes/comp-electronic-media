@@ -2,7 +2,8 @@
 tinyurl.com/electronic-comp <br>
 Email Professor Demastes at edemastes@tulane.edu <br>
 Turn in assigments via email unless presented in class <br><br>
-<a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> Final project grading rubric and requirements</a> <br><br>
+<a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> Final project grading rubric and requirements</a> <br>
+<a href = "https://docs.google.com/spreadsheets/d/1DGK9HAH-HfV8CoA001Cj4C7mk42sX11tNB4XsIw3kLw/edit?usp=sharing"> April 22nd Zoom meeting sign-up sheet </a> <br><br>
 Slides:
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-intro.pdf"> Sound Intro </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-design.pdf"> Sound Design </a>
