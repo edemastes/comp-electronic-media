@@ -51,9 +51,11 @@ Topic: Experimental electronic music today: noise, IDM, new computer music. Auto
 - April 8 (Week 13): Assigment 10 due: 1-2 minute piece with extensions, suspensions, or polychords. <br>
   Topic: Microphones and studio techniques
 - April 15 (Week 14): For the next weeks, working on final project. <br>
-  Topic: Mixing and mastering, history and tips
-- April 22 (Week 15): Individual meetings for mixing and mastering over Zoom-- no in-person meeting this week.
-- April 29 (Week 16): Final project presentations
+  Topic: Work day, individual questions
+- April 22 (Week 15): Individual meetings for mixing and mastering over Zoom-- no in-person meeting this week. <br>
+  <a href = "https://docs.google.com/spreadsheets/d/1DGK9HAH-HfV8CoA001Cj4C7mk42sX11tNB4XsIw3kLw/edit?usp=sharing"> April 22nd Zoom meeting schedule</a> <br>
+  Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tulane.zoom.us/my/erindemastes </a> 
+- April 29 (Week 16): Final project presentations & response due
 - May 7th & 8th: Final concerts 7pm <br><br>
 
 Exporting audio in Ableton:
