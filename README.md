@@ -85,6 +85,6 @@ Resources:
 - <a href ="https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC Sound FX </a>
 - <a href = "https://learningmusic.ableton.com/index.html"> Ableton Learning Music tutorials </a>
 - <a href ="https://learningsynths.ableton.com/"> Ableton Learning Synths tutorials </a>
-- <a href ="https://www.ableton.com/en/manual/live-audio-effect-reference/"> Ableton audio fx reference</a>: includes compression, eq, gate, de-essing, sidechain, etc.
+- <a href ="https://www.ableton.com/en/manual/live-audio-effect-reference/"> Ableton audio fx reference</a>: includes compression, EQ, gate, de-essing, sidechain, etc.
 
   
