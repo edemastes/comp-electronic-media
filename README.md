@@ -6,6 +6,15 @@ Turn in assigments via email unless presented in class <br><br>
 <a href = "https://docs.google.com/spreadsheets/d/1DGK9HAH-HfV8CoA001Cj4C7mk42sX11tNB4XsIw3kLw/edit?usp=sharing"> April 22nd Zoom meeting schedule </a> <br>
 Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tulane.zoom.us/my/erindemastes </a> <br>
 <a href="https://edemastes.github.io/comp-electronic-media/share.jpg"> How to share screen and sound on Zoom </a> <br><br>
+
+<b>Important Dates: </b>
+- Monday, April 29: Final compositions are due and presented in class <br>
+  Email to edemastes@tulane.edu so we can play over speakers in classroom. <br>
+  A reminder: <a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> final project grading rubric and requirements</a> <br>
+- Friday, May 3 by 11:59 pm: Final project written resonse due via email
+- Tuesday, May 7 and Wednesday, May 8 @ 7pm: Final concerts, tech & attend as part of your grade.
+
+<br><br>
 Slides:
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-intro.pdf"> Sound Intro </a>
 - <a href = "https://edemastes.github.io/comp-electronic-media/slides/sound-design.pdf"> Sound Design </a>
