@@ -11,7 +11,7 @@ Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tula
 - Monday, April 29: Final compositions are due and presented in class <br>
   Email to edemastes@tulane.edu so we can play over speakers in classroom. <br>
   A reminder: <a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> final project grading rubric and requirements</a> <br>
-- Friday, May 3 by 11:59 pm: Final project written resonse due via email
+- Friday, May 3 by 11:59pm: Final project written resonse due via email
 - Tuesday, May 7 and Wednesday, May 8 @ 7pm: Final concerts, tech & attend as part of your grade.
 
 <br><br>
@@ -65,7 +65,7 @@ Topic: Experimental electronic music today: noise, IDM, new computer music. Auto
   <a href = "https://docs.google.com/spreadsheets/d/1DGK9HAH-HfV8CoA001Cj4C7mk42sX11tNB4XsIw3kLw/edit?usp=sharing"> April 22nd Zoom meeting schedule</a> <br>
   Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tulane.zoom.us/my/erindemastes </a> 
 - April 29 (Week 16): Final project presentations
-- May 3: Final project written response due at 11:59 pm via email
+- May 3: Final project written response due at 11:59pm via email
 - May 7th & 8th: Final concerts 7pm <br><br>
 
 Exporting audio in Ableton:
