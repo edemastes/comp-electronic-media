@@ -2,10 +2,7 @@
 tinyurl.com/electronic-comp <br>
 Email Professor Demastes at edemastes@tulane.edu <br>
 Turn in assigments via email unless presented in class <br><br>
-<a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> Final project grading rubric and requirements</a> <br>
-<a href = "https://docs.google.com/spreadsheets/d/1DGK9HAH-HfV8CoA001Cj4C7mk42sX11tNB4XsIw3kLw/edit?usp=sharing"> April 22nd Zoom meeting schedule </a> <br>
-Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tulane.zoom.us/my/erindemastes </a> <br>
-<a href="https://edemastes.github.io/comp-electronic-media/share.jpg"> How to share screen and sound on Zoom </a> <br><br>
+<a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> Final project grading rubric and requirements</a> <br><br>
 
 <b>Important Dates: </b>
 - Monday, April 29: Final compositions are due and presented in class <br>
@@ -13,7 +10,7 @@ Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tula
   A reminder: <a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> final project grading rubric and requirements</a> <br>
 - Friday, May 3 10am-11am: concert setup
 - Friday, May 3 by 11:59pm: Final project written response due via email
-- Sunday, May 5 8pm: Verspiel Concert Dixon Hall
+- Sunday, May 5 8pm: <a href = "https://allevents.in/new%20orleans/versipel-new-music-presents-soundscapes-ii/200026402247440#"> Versipel Concert at Dixon Hall "Soundscapes II" </a>
 - Tuesday, May 7 and Wednesday, May 8 @ 7pm: Final concerts, tech & attend as part of your grade.
 - Wednesday, May 8 8:30pm-9:30pm: concert takedown
 
