@@ -12,7 +12,7 @@ Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tula
   Email to edemastes@tulane.edu so we can play over speakers in classroom. <br>
   A reminder: <a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> final project grading rubric and requirements</a> <br>
 - Friday, May 3 10am-11am: concert setup
-- Friday, May 3 by 11:59pm: Final project written resonse due via email
+- Friday, May 3 by 11:59pm: Final project written response due via email
 - Sunday, May 5 8pm: Verspiel Concert Dixon Hall
 - Tuesday, May 7 and Wednesday, May 8 @ 7pm: Final concerts, tech & attend as part of your grade.
 - Wednesday, May 8 8:30pm-9:30pm: concert takedown
