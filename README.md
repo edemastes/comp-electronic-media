@@ -11,8 +11,14 @@ Zoom room link: <a href = "https://tulane.zoom.us/my/erindemastes"> https://tula
 - Monday, April 29: Final compositions are due and presented in class <br>
   Email to edemastes@tulane.edu so we can play over speakers in classroom. <br>
   A reminder: <a href = "https://edemastes.github.io/comp-electronic-media/final-rubric.pdf"> final project grading rubric and requirements</a> <br>
+- Friday, May 3 10am-11am: concert setup
 - Friday, May 3 by 11:59pm: Final project written resonse due via email
+- Sunday, May 5 8pm: Verspiel Concert Dixon Hall
 - Tuesday, May 7 and Wednesday, May 8 @ 7pm: Final concerts, tech & attend as part of your grade.
+- Wednesday, May 8 8:30pm-9:30pm: concert takedown
+
+<b>You are required to either set up OR take down, but you must attend BOTH concerts. </b> <br>
+<a href = "https://docs.google.com/spreadsheets/d/1Z6fl3ccxj824LfwW6TfRkV-E9psnYfe410hrpWkXp0M/edit?usp=sharing"> Concert set up OR take down signup sheet here.</a> Sign up for one slot.
 
 <br><br>
 Slides:
