@@ -35,7 +35,7 @@ Assignments: <br>
 - Weekly attendance and assignment presentation makes up 50% of final grade.
 - There will be a final project that will need to be presented at the MST concert in May, either May 7th or 8th.
 - Finally, you will need to attend and help tech concerts throughout the semester.
-- You will need to attend either a music at midday concert (<a href ="https://tulane.campuslabs.com/engage/event/9731344">schedule here</a>) or one on March 24 or May 6th (more info to come). To get credit, please send a photo with the program at the concert to the email at the top of this page. 
+- You will need to attend either a music at midday concert (<a href ="https://tulane.campuslabs.com/engage/event/9731344">schedule here</a>) or one on March 24 or May 5th (more info to come). To get credit, please send a photo with the program at the concert to the email at the top of this page. 
 - <b>You will be required to attend and tech May 7th and 8th at 7pm.</b>
 - <a href = "https://edemastes.github.io/comp-electronic-media/syllabus-draft.pdf"> Syllabus, course description, grading, etc. </a> <br><br>
 - Jan. 15 (Week 1): Scheduling, etc. 
