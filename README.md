@@ -26,17 +26,19 @@ Recording MIDI in Reaper:
 - Play your computer keyboard to record notes.
 - Save track. <br><br>
 
-Resources:
+DAW Resources:
 - <a href ="https://www.reaper.fm/download.php"> Reaper download </a>
 - <a href = "https://www.audacityteam.org/"> Audacity download </a>
 - <a href ="https://www.ableton.com/en/trial/"> Ableton trial </a>
 - <a href ="https://edemastes.github.io/comp-electronic-media/ableton-trial.pdf"> Ableton trial extension instructions </a>
 - <a href = "https://help.ableton.com/hc/en-us/requests/new?ticket_form_id=123205"> Ableton license support email </a> <br><br>
 
+Plugin Resources:
 - <a href = "https://www.spitfireaudio.com/instruments?rrp_to_pay_usd=%3A1"> Spitfire Audio sample library </a>
 - <a href = "https://www.spitfireaudio.com/info/library-manager/"> Spitfire Audio plugin download </a>
 - <a href = "https://www.spitfireaudio.com/info/website-guide/digital-downloads/"> How-to video for plugin install </a> <br><br>
 
+Other Software, Websites, and Tutorials:
 - <a href = "https://maxforlive.com/library/index.php?type=instrument"> Max for Live instrument plugins </a>
 - <a href = "https://vcvrack.com/"> VCV Rack, Eurorack simulator </a>
 - <a href ="https://freesound.org/"> Freesound.org </a>
